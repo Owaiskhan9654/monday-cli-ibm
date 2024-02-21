@@ -1,4 +1,4 @@
-# moncli
+# monday cli
 A Python Client and CLI tool for Monday.com
 
 ### Table of Contents ###
